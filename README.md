@@ -25,3 +25,8 @@ Library Yang dipakai
 3. Ganti dataset pada `data = datasets.load_iris()`
 4. Pilihan dataset ada pada link https://scikit-learn.org/stable/datasets/toy_dataset.html
 5. Run
+
+## Author
+Fikri Ihsan Fadhiilah
+13520148
+Teknik Informatika ITB 2020
