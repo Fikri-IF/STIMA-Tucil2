@@ -26,7 +26,7 @@ Library Yang dipakai
 4. Pilihan dataset ada pada link https://scikit-learn.org/stable/datasets/toy_dataset.html
 5. Run
 
-## Authon
+## Author
 Fikri Ihsan Fadhiilah <br />
 13520148 <br />
 Teknik Informatika ITB 2020 <br />
