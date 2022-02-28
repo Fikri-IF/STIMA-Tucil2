@@ -27,6 +27,6 @@ Library Yang dipakai
 5. Run
 
 ## Authon
-Fikri Ihsan Fadhiilah
-13520148
-Teknik Informatika ITB 2020
+Fikri Ihsan Fadhiilah <br />
+13520148 <br />
+Teknik Informatika ITB 2020 <br />
